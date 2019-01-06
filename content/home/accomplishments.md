@@ -20,27 +20,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Neural Networks and Deep Learning"
-  organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  title = "Participated in ICPC"
+  organization = "ACM ICPC"
+  certificate_url = "https://icpc.baylor.edu/ICPCID/CNEA4LPDT923"
+  date_start = "2019-01-01"
   date_end = ""
-  description = ""
+  description = "Contestant in The 2018 ICPC Asia Amritapuri Doublesite Regional Contest"
 
 [[item]]
-  title = "Blockchain Fundamentals"
-  organization = "edX"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  title = "Microsoft code.fun.do"
+  organization = "Microsoft"
+  certificate_url = ""
+  date_start = "2018-01-01"
   date_end = ""
-  description = ""
+  description = "Second runner-up in 2018 at IIT(BHU) Varanasi"
   
 [[item]]
-  title = "Intro to Python"
-  organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  title = "Coursera Mentor Community and Training Course"
+  organization = "Coursera"
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/2Y9G3RPSX462"
+  date_start = "2016-12-01"
+  date_end = ""
+  description = "Course by Coursera Community Team on Coursera."
 
 +++
