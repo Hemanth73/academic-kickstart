@@ -23,6 +23,6 @@ weight = 5
  
 +++
 
-# About
+# Biography
 
 I am currently pursuing my Bachelor's degree in Electrical Engineering at [IIT(BHU) Varanasi](http://www.iitbhu.ac.in). My career interests include software development and machine learning. I am originally from Hyderabad, India.

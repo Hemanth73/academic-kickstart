@@ -64,11 +64,11 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "vhemanth.sai.eee15@itbhu.ac.in"
-  address = "Room 144, Rajputana Hostel, IIT(BHU) Varanasi, Varanasi, Uttar Pradesh, India"
+  address = "Varanasi, Uttar Pradesh, India"
   office_hours = """
-  24x7
+  Monday-Friday: 0900 to 1700hrs
   """
-  phone = "9454690330"
+  phone = ""
   facebook = "vhemanth.sai"
   #telegram = ""
   #keybase = ""  # Your keybase.io username.

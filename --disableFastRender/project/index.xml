@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jan 2019 12:18:43 +0530</lastBuildDate>
     
 	<atom:link href="//localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deepradiology</title>
+      <link>//localhost:1313/project/deepradiology/</link>
+      <pubDate>Mon, 07 Jan 2019 12:18:43 +0530</pubDate>
+      
+      <guid>//localhost:1313/project/deepradiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DroneTech Technex&#39;16</title>
+      <link>//localhost:1313/project/drone-tech/</link>
+      <pubDate>Mon, 07 Jan 2019 12:18:43 +0530</pubDate>
+      
+      <guid>//localhost:1313/project/drone-tech/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Electricity Theft Detection using IoT</title>
+      <link>//localhost:1313/project/electricity-theft-detection/</link>
+      <pubDate>Mon, 07 Jan 2019 12:18:43 +0530</pubDate>
+      
+      <guid>//localhost:1313/project/electricity-theft-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PMBLDCM Drive for Air Conditioning Applications</title>
+      <link>//localhost:1313/project/bldcm-drive/</link>
+      <pubDate>Mon, 07 Jan 2019 12:18:43 +0530</pubDate>
+      
+      <guid>//localhost:1313/project/bldcm-drive/</guid>
+      <description>My Undergraduate Project as part of curriculum at IIT(BHU) Varanasi. Please visit my github repo for more information.</description>
+    </item>
     
   </channel>
 </rss>

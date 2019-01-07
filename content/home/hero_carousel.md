@@ -9,7 +9,7 @@ weight = 6
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = false
+interval = 5000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
@@ -32,7 +32,7 @@ height = "300px"
 
 [[item]]
   title = "ACM ICPC"
-  content = "The 2018 ICPC Asia Amritapuri Doublesite Regional Contest"
+  content = "The 2018 ICPC Asia Amritapuri Regional Contest"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).

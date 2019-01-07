@@ -10,5 +10,47 @@
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Deepradiology</title>
+      <link>//localhost:1313/project/deepradiology/</link>
+      <pubDate>Mon, 07 Jan 2019 12:18:43 +0530</pubDate>
+      
+      <guid>//localhost:1313/project/deepradiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DroneTech Technex&#39;16</title>
+      <link>//localhost:1313/project/drone-tech/</link>
+      <pubDate>Mon, 07 Jan 2019 12:18:43 +0530</pubDate>
+      
+      <guid>//localhost:1313/project/drone-tech/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/X5VfLEwAO2s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Electricity Theft Detection using IoT</title>
+      <link>//localhost:1313/project/electricity-theft-detection/</link>
+      <pubDate>Mon, 07 Jan 2019 12:18:43 +0530</pubDate>
+      
+      <guid>//localhost:1313/project/electricity-theft-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PMBLDCM Drive for Air Conditioning Applications</title>
+      <link>//localhost:1313/project/bldcm-drive/</link>
+      <pubDate>Mon, 07 Jan 2019 12:18:43 +0530</pubDate>
+      
+      <guid>//localhost:1313/project/bldcm-drive/</guid>
+      <description>&lt;p&gt;My Undergraduate Project as part of curriculum at IIT(BHU) Varanasi. Please visit my &lt;a href=&#34;https://github.com/Hemanth73/ug-project&#34; target=&#34;_blank&#34;&gt;github repo&lt;/a&gt; for more information.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
