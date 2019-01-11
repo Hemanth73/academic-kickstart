@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Competitive Programming",
     "Machine Learning",
-    "Android App Development"
+    "Android App Development",
+    "Network Security"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -25,4 +26,4 @@ weight = 5
 
 # Biography
 
-I am currently pursuing my Bachelor's degree in Electrical Engineering at [IIT(BHU) Varanasi](http://www.iitbhu.ac.in). My career interests include software development and machine learning. I am originally from Hyderabad, India.
+I am currently in my final year pursuing a Bachelor's degree in Electrical Engineering at [IIT(BHU) Varanasi](http://www.iitbhu.ac.in). My career interests include software development and machine learning. I am currently looking for jobs immediately after my graduation. I am originally from Hyderabad, India.

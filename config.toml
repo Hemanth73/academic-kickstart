@@ -107,7 +107,7 @@ enableGitInfo = false
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
   color_theme = "default"
   # Enable users to switch between day and night mode?
-  day_night = false
+  day_night = true
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -314,11 +314,6 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
-
-[[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 6
@@ -336,7 +331,7 @@ enableGitInfo = false
   #   0: No search engine
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.

@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Participated in ICPC"
+  title = "Contested in ICPC Onsite Round"
   organization = "ACM ICPC"
   certificate_url = "https://icpc.baylor.edu/ICPCID/CNEA4LPDT923"
   date_start = "2019-01-01"

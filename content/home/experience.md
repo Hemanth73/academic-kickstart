@@ -38,8 +38,7 @@ date_format = "January 2006"
 
   Responsibilities include:
   
-  * Resolving doubts in lectures
-  * Resolving queries in homework problems
+  * Resolving queries in lectures and homeworks
   * Maintaining decorum in course forum"""
 
 [[experience]]
@@ -50,5 +49,15 @@ date_format = "January 2006"
   date_start = "2018-05-14"
   date_end = "2018-08-02"
   description = """Summer Internship as quantitative analyst"""
+
+[[experience]]
+  title = "Event Coordinator"
+  company = "Prastuti'18"
+  company_url = ""
+  location = "Varanasi"
+  date_start = "2018-03-01"
+  date_end = "2018-04-01"
+  description = """Event Coordinator for Recognizance, the computer vision event in Prastuti'18. 
+  Prastuti is the annual fest of Department of Electrical Engineering, IIT(BHU) Varanasi"""
 
 +++

@@ -25,18 +25,36 @@ weight = 7
   icon = "python"
   icon_pack = "fab"
   name = "Programming"
-  description = "70%"
+  description = " "
 
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "50%"
+  description = ""
+
+[[feature]]
+  icon = "check-circle"
+  icon_pack = "fas"
+  name = "Problem Solving"
+  description = ""
   
 [[feature]]
   icon = "android"
   icon_pack = "fab"
   name = "App Development"
-  description = "40%"
+  description = ""
+
+[[feature]]
+  icon = "edge"
+  icon_pack = "fab"
+  name = "Web Development"
+  description = ""
+
+[[feature]]
+  icon = "bolt"
+  icon_pack = "fas"
+  name = "Electrical Simulation"
+  description = ""
 
 +++
